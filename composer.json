@@ -1,0 +1,13 @@
+{
+    "name": "marufsharia/helloworld",
+    "description": "This is a test package. basically I am trying to create a dummy package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Maruf Sharia",
+            "email": "marufsharia@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
