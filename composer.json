@@ -8,6 +8,6 @@
             "email": "marufsharia@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "",
     "require": {}
 }
