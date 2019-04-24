@@ -1,2 +1,3 @@
 # helloworld-package
-This is a laravel dump test package called Helloworld
+This is a test package for learning how to create laravel package and publish it
+
