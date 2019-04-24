@@ -1,6 +1,6 @@
 {
     "name": "marufsharia/helloworld",
-    "description": "This is a test package. basically I am trying to create a dummy package",
+    "description": "This is a test package for learning how to create laravel package and publish it",
     "license": "MIT",
     "authors": [
         {
